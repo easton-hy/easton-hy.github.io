@@ -15,6 +15,5 @@ Spatio-temporal (ST) earthquakes prediction is significant for prevention of dam
 
 **Keywords:** Spatio-temporal Prediction, Reduced-order model, Dynamic mode decomposition (DMD).
 
-[Download report here](http://academicpages.github.io/files/paper3.pdf)
+[Download report here](http://academicpages.github.io/files/ME5311_final.pdf)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
