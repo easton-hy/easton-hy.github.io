@@ -17,7 +17,7 @@ Education
 
 GPA: (Bachelor) 3.6/4.0 (Master) 4.1/5.0
 
-Research experience
+***Research experience***
 ======
 
 Digital Twins Integrated Finite Element (FE) Analysis        
@@ -47,7 +47,7 @@ Supervisor: Prof. Wei Liu
   * Proposed a comprehensive delamination prediction method based on multi-sensor data.
   * Established a multi-sensor test platform for carbon brazed dimensional composites processing.
 
-Course projects
+***Course projects***
 ======
 
 Spatio-temporal Prediction based on Data-driven Machine Learning: Earthquakes Case
@@ -68,7 +68,7 @@ Module Name: Mechanical Design 1 Course Design
   * Modeled and simulated the walking mechanism of walking robot. Designed a innovated and optimized mechanism based on analysis.
   * Utilized Matlab to verify the values of inertia force and friction force in the walking mechanism.
 
-Other Experience
+***Other Experience***
 ======
 
 Kaggle Competition
