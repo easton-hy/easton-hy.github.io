@@ -21,8 +21,8 @@ Research experience
 ======
 
 Digital Twins Integrated Finite Element (FE) Analysis        
-<font size=1 >Supervisor: Prof. Andrew Yeh Ching Nee & Prof. Ong Soh Khim</font>
 ------
+Supervisor: Prof. Andrew Yeh Ching Nee & Prof. Ong Soh Khim
   * Build data-driven Digital Twins for structural health monitoring (SHM) under complex loading conditions.
   * Real-time update FE analysis results in virtual space, according to the data transmitted wirelessly from sensors.
   * Control the physical model by controlling the digital model in virtual space to achieve bidirectional interaction.
