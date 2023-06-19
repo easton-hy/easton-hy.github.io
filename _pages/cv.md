@@ -71,17 +71,17 @@ Module Name: Mechanical Design 1 Course Design
 ***Other Experience***
 ======
 
-Kaggle Competition
+Kaggle Competition   
 Smart Agriculture Contest
 ------
   * Designed a cart that can realize automatic cruising in the field and adapting to complex road conditions based on machine vision. My responsibilities were the structural design and parts manufacturing and assembly of carts.
 
-China Robotics and Artificial Intelligence Competition
+China Robotics and Artificial Intelligence Competition  
 UW-Madison GI Tract Image Segmentation (UWMGI)
 ------
   * Created a model to automatically segment the stomach and intestines on MRI scans by applying Deeper Learning.
 
-Dalian University of Technology Varsity Self-Reliance Society
+Dalian University of Technology Varsity Self-Reliance Society  
 Vice President (Junior), Office Manager (Sophomore), Outreach Officer (Freshman)
 ------
   * Developed a platform for the poor students to improve themself by organizing a variety of activities.
