@@ -25,6 +25,7 @@ My interests revolve around Digital Twins related area and their applications. M
 2. High-fidelity reduced-order model based on machine learning, such as the physics-informed neural network.
 3. Augmented reality and data visualization.
 4. Bidirectional communication between physical and virtual space.
+5. Digital Twins system applications on the real infrastructures.
 
 Getting started
 ======
