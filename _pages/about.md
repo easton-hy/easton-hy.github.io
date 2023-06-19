@@ -18,7 +18,7 @@ Education
 
 My education experience provides me with solid theory learning and extensive project practices. My skills are listed as below:
 1. Modeling and structure design: Solidworks, AutoCAD, and Inventor.
-2. Structure analysis: ANSYS (workbench and APDL) and Abaqus.
+2. Simulation and structure analysis: ANSYS (workbench and APDL) and Abaqus.
 3. Numerical analysis and prediction: Matlab, Python, and SPSS.
 4. Hardware: Sensor network, actuator modules, and Arduino.
 5. Mobile app deployment: Android Studio.
