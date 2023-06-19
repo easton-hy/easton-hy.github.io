@@ -85,7 +85,7 @@ author:
   bio              : "A digital twin of Easton. A son, brother, student, and photographer!"
   location1         : "Singapore (Present)"
   location2         : "Dongguan, China (Home)"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "eastonhwang@gmail.com"
   telephone        : "+86 18041101930"
@@ -98,7 +98,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "easton-hy"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
