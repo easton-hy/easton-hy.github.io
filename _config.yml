@@ -83,11 +83,13 @@ author:
   name             : "HUANG Yi, Easton"
   avatar           : "U2102035 Huang Yi.jpg"
   bio              : "A digital twin of Easton. A son, brother, student, and photographer!"
-  location         : "Singapore"
-  employer         :
+  location1         : "Singapore (Present)"
+  location2         : "Dongguan, China (Home)"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "eastonhwang@gmail.com"
+  telephone        : "+86 18041101930"
+  wechat           : "471161339"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
