@@ -23,13 +23,10 @@
     <button class="btn btn--inverse">Follow</button>
     <ul class="author__urls social-icons">
       {% if author.location %}
-        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Singapore (Present)}</li>
+        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Singapore (Present)</li>
       {% endif %}
       {% if author.location %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Dongguan, China (Home)</li>
-      {% endif %}
-      {% if author.employer %}
-        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
       {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
@@ -38,7 +35,7 @@
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> eastonhwang@gmail.com</li>
       {% endif %}
       <li><i class="fa fa-phone" aria-hidden="true"></i></i> +86 18041101930</li>
-      <li><i class="fa fa-weixin" aria-hidden="true"></i> 471161339</li>
+      <li><i class="fa fa-weixin" aria-hidden="true"></i></i> 471161339</li>
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
       {% endif %}
