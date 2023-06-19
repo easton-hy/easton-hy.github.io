@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to Easton's website! This website aims to provide you with a digital representation of myself, where you can get my experience in detail, including the presentation of my previous research projects, resume, and life. Currently, I am looking for a Ph.D. position and research assistant to dive myself into the research. It is the beginning of my career, and I do try my best to qualify myself as a researcher with advanced state-of-the-art techniques in the research institution in the future.
+Welcome to Easton's website! This website aims to provide you with a digital representation of myself, where you can get my experience in detail, including the presentation of my previous research projects, resume, and life. Currently, I am looking for a Ph.D. position and research assistant to dive myself into the research. It will be the beginning of my career, and I do try my best to qualify myself as a researcher with advanced state-of-the-art techniques in the research institution in the future.
 
 Education
 ------
