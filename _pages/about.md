@@ -15,9 +15,9 @@ td,th{
   border: none!important;
 }
 </style>
-| <!-- --> | <!-- --> |
+| <span> | <span> |
 |------: | :------|
-| Name | HUANG Yi, Easton |
+| Name: | HUANG Yi, Easton |
 
 Education
 ------
