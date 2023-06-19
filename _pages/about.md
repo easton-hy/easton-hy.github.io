@@ -1,14 +1,17 @@
 ---
 permalink: /
-//title: "Introduction"
+title: "Introduction of Easton"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Introduction
-======
+Education
+------
+|:Name:|:HUANG Yi, Easton:|
+Education
+------
 * M.Sc. Mechanical Engineering, University of Singapore, Singapore, 2023
 * B.Eng. Mechanical Engineering, NUS (Suzhou) Research Institution, China, 2022
 * B.Eng. Mechanical Engineering, Dalian University of Technology, China, 2021  
