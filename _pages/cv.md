@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,9 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Eng. Mechanical Engineering, Dalian University of Technology, 2018-2021
+* B.Eng. Mechanical Engineering, NUS (Suzhou) Research Institution, 2021-2022
+* M.Sc. Mechanical Engineering, National University of Singapore, 2022-2023
+
+GPA: (Bachelor) 3.6/4.0 (Master) 4.1/5.0
 
 Work experience
 ======
