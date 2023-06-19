@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+***Education***
 ======
 * B.Eng. Mechanical Engineering, Dalian University of Technology, 2018-2021
 * B.Eng. Mechanical Engineering, NUS (Suzhou) Research Institution, 2021-2022
