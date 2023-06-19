@@ -10,6 +10,11 @@ redirect_from:
 Education
 ------
 
+<style>
+td,th{
+  border: none!important;
+}
+</style>
 | Name | HUANG Yi, Easton |
 |------: | :------|
 | Name | HUANG Yi, Easton |
