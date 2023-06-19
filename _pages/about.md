@@ -10,6 +10,7 @@ redirect_from:
 Education
 ------
 |:Name:|:HUANG Yi, Easton:|
+
 Education
 ------
 * M.Sc. Mechanical Engineering, University of Singapore, Singapore, 2023
