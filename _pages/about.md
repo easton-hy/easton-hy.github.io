@@ -17,7 +17,6 @@ Education
 | **Birth Place:** | Dongguan, China |
 | **E-mail:** | eastonhwang@gmail.com  |
 | **Telephone:** | (CN) +86 18041101930 <br> (SG) +65 86734649|
-| **Telephone:** | (SG) +65 86734649 |
 
 Education
 ------
