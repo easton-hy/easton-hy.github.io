@@ -21,14 +21,14 @@ Research experience
 ======
 
 Digital Twins Integrated Finite Element (FE) Analysis        
-Supervisor: Prof. Andrew Yeh Ching Nee & Prof. Ong Soh Khim
+###Supervisor: Prof. Andrew Yeh Ching Nee & Prof. Ong Soh Khim
 ------
   * Build data-driven Digital Twins for structural health monitoring (SHM) under complex loading conditions.
   * Real-time update FE analysis results in virtual space, according to the data transmitted wirelessly from sensors.
   * Control the physical model by controlling the digital model in virtual space to achieve bidirectional interaction.
 
 Intelligent Machine Vision for Surface Condition Inspection        
-Supervisor: Prof. Wen Feng Lu
+###Supervisor: Prof. Wen Feng Lu
 ------
   * Achieved intelligent detection of defects on steel surfaces by applying machine vision based on machine learning.
   * Developed detection platform and deployed it into mobile phone and computer software.
