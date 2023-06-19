@@ -12,7 +12,12 @@ Education
 
 | <span> | <span> |
 |------: | :------|
-| Name: | HUANG Yi, Easton |
+| **Name:** | HUANG Yi, Easton |
+| **Birth Date:** | 2000.04.12 |
+| **Birth Place:** | Dongguan, China |
+| **E-mail:** | eastonhwang@gmail.com  |
+| **Telephone:** | (CN) +86 18041101930 |
+| **Telephone:** | (SG) +65 86734649 |
 
 Education
 ------
