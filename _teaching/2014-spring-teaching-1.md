@@ -1,10 +1,10 @@
 ---
-title: "Teaching experience 1"
+title: "Data-Driven of Spatio-temporal Prediction: Earthquakes Case"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+type: "course project"
+permalink: /teaching/2023-spring-teaching-1
 venue: "University 1, Department"
-date: 2014-01-01
+date: 2023
 location: "City, Country"
 ---
 
